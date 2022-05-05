@@ -14,20 +14,66 @@
          "WebImagePath":"",
          "CreatedDate":"2022-04-12T10:13:58",
          "ModifiedDate":null
-      },{
-         "ProductCode":"000002",
-         "ProductReferenceCode":"",
-         "VariantReferenceCode":"1",
-         "ProductDescription":"GLYCOMET 500MG",
-         "DefaultSupplier":"",
-         "MeasurementUnit":"NOS",
-         "CostPrice":4.12,
-         "SellingPrice":5.17,
-         "CaseSize":1.0,
-         "WebProductDescription":"",
-         "WebImagePath":"",
-         "CreatedDate":"2022-04-12T10:13:58",
-         "ModifiedDate":null
-      }
+      },
+      {
+            "ProductCode": "000002",
+            "ProductReferenceCode": "",
+            "VariantReferenceCode": "2",
+            "ProductDescription": "GLYCOMET 500MG SR",
+            "DefaultSupplier": "",
+            "MeasurementUnit": "NOS",
+            "CostPrice": 8.76,
+            "SellingPrice": 10.08,
+            "CaseSize": 1.0,
+            "WebProductDescription": "",
+            "WebImagePath": "",
+            "CreatedDate": "2022-04-12T10:13:58",
+            "ModifiedDate": null
+        },
+        {
+            "ProductCode": "000003",
+            "ProductReferenceCode": "",
+            "VariantReferenceCode": "3",
+            "ProductDescription": "GLYCOMET 850MG",
+            "DefaultSupplier": "",
+            "MeasurementUnit": "NOS",
+            "CostPrice": 8.42,
+            "SellingPrice": 9.69,
+            "CaseSize": 1.0,
+            "WebProductDescription": "",
+            "WebImagePath": "",
+            "CreatedDate": "2022-04-12T10:13:58",
+            "ModifiedDate": null
+        },
+        {
+            "ProductCode": "000004",
+            "ProductReferenceCode": "",
+            "VariantReferenceCode": "4",
+            "ProductDescription": "BIGMET 500MG",
+            "DefaultSupplier": "",
+            "MeasurementUnit": "NOS",
+            "CostPrice": 3.78,
+            "SellingPrice": 4.35,
+            "CaseSize": 1.0,
+            "WebProductDescription": "",
+            "WebImagePath": "",
+            "CreatedDate": "2022-04-12T10:13:58",
+            "ModifiedDate": null
+        },
+        {
+            "ProductCode": "000005",
+            "ProductReferenceCode": "",
+            "VariantReferenceCode": "5",
+            "ProductDescription": "BIGMET 850MG",
+            "DefaultSupplier": "",
+            "MeasurementUnit": "NOS",
+            "CostPrice": 7.58,
+            "SellingPrice": 8.71,
+            "CaseSize": 1.0,
+            "WebProductDescription": "",
+            "WebImagePath": "",
+            "CreatedDate": "2022-04-12T10:13:58",
+            "ModifiedDate": null
+        }
    ]
 }
