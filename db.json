@@ -1,35 +1,34 @@
 {
-
-"myPosData":[
-     {
-            "ProductCode": "000001",
-            "ProductReferenceCode": "",
-            "VariantReferenceCode": "1",
-            "ProductDescription": "GLYCOMET 500MG",
-            "DefaultSupplier": "",
-            "MeasurementUnit": "NOS",
-            "CostPrice": 4.12,
-            "SellingPrice": 5.17,
-            "CaseSize": 1.0,
-            "WebProductDescription": "",
-            "WebImagePath": "",
-            "CreatedDate": "2022-04-12T10:13:58",
-            "ModifiedDate": null
-        },
-       {
-            "ProductCode": "000002",
-            "ProductReferenceCode": "",
-            "VariantReferenceCode": "2",
-            "ProductDescription": "GLYCOMET 500MG SR",
-            "DefaultSupplier": "",
-            "MeasurementUnit": "NOS",
-            "CostPrice": 8.76,
-            "SellingPrice": 10.08,
-            "CaseSize": 1.0,
-            "WebProductDescription": "",
-            "WebImagePath": "",
-            "CreatedDate": "2022-04-12T10:13:58",
-            "ModifiedDate": null
-        }
-]
+   "myPosData":[
+      {
+         "ProductCode":"000001",
+         "ProductReferenceCode":"",
+         "VariantReferenceCode":"1",
+         "ProductDescription":"GLYCOMET 500MG",
+         "DefaultSupplier":"",
+         "MeasurementUnit":"NOS",
+         "CostPrice":4.12,
+         "SellingPrice":5.17,
+         "CaseSize":1.0,
+         "WebProductDescription":"",
+         "WebImagePath":"",
+         "CreatedDate":"2022-04-12T10:13:58",
+         "ModifiedDate":null
+      },
+      {
+         "ProductCode":"000002",
+         "ProductReferenceCode":"",
+         "VariantReferenceCode":"2",
+         "ProductDescription":"GLYCOMET 500MG SR",
+         "DefaultSupplier":"",
+         "MeasurementUnit":"NOS",
+         "CostPrice":8.76,
+         "SellingPrice":10.08,
+         "CaseSize":1.0,
+         "WebProductDescription":"",
+         "WebImagePath":"",
+         "CreatedDate":"2022-04-12T10:13:58",
+         "ModifiedDate":null
+      }
+   ]
 }
