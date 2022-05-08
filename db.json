@@ -19,7 +19,7 @@
             "ProductCode": "000002",
             "ProductReferenceCode": "",
             "VariantReferenceCode": "2",
-            "ProductDescription": "GLYCOMET 500MG SR",
+            "ProductDescription": "GLYCOMETt 500MG SR",
             "DefaultSupplier": "",
             "MeasurementUnit": "NOS",
             "CostPrice": 8.76,
@@ -27,14 +27,14 @@
             "CaseSize": 1.0,
             "WebProductDescription": "",
             "WebImagePath": "",
-            "CreatedDate": "2022-04-12T10:13:58",
+            "CreatedDate": "2023-04-12T10:13:58",
             "ModifiedDate": null
         },
         {
             "ProductCode": "000003",
             "ProductReferenceCode": "",
             "VariantReferenceCode": "3",
-            "ProductDescription": "GLYCOMET 850MG",
+            "ProductDescription": "GLYCOMETT 850MG",
             "DefaultSupplier": "",
             "MeasurementUnit": "NOS",
             "CostPrice": 8.42,
@@ -42,7 +42,7 @@
             "CaseSize": 1.0,
             "WebProductDescription": "",
             "WebImagePath": "",
-            "CreatedDate": "2022-04-12T10:13:58",
+            "CreatedDate": "2023-04-12T10:13:58",
             "ModifiedDate": null
         },
         {
